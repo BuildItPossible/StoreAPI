@@ -1,0 +1,58 @@
+{
+   "storeHeader":{
+      "headerPicture":"https://i.ytimg.com/vi/_7-LUPHLCnU/mqdefault.jpg",
+      "headerMessage":"acaca"
+   },
+   "storeProducts":[      
+      {
+         "title":"YouTube: Ultimate YouTube Guide To Building A Channel",
+         "picture":"http://ecx.images-amazon.com/images/I/518gPckdTFL.jpg",
+         "link":"http://amzn.to/2u3e1Sc"
+      },
+      {
+         "title":"Canon EOS 700D 18MP Digital SLR Camera",
+         "picture":"http://ecx.images-amazon.com/images/I/51%2BlC43HUAL.jpg",
+         "link":"http://amzn.to/2tAHMrI"
+      },
+      {
+         "title":"Syma X5SW Explorers2 Drone",
+         "picture":"http://ecx.images-amazon.com/images/I/4185ucaPQqL.jpg",
+         "link":"http://amzn.to/2vcukw8"
+      },
+      {
+         "title":"GoPro HERO5 Session Action Camera",
+         "picture":"http://ecx.images-amazon.com/images/I/61-FG9FC5fL._SL500_.jpg",
+         "link":"http://amzn.to/2vwy3UF"
+      },
+      {
+         "title":"Apple MacBook Air",
+         "picture":"http://ecx.images-amazon.com/images/I/41%2BRtZqQhkL.jpg",
+         "link":"http://amzn.to/2vceIJ0"
+      },
+      {
+         "title":"YouTube: Ultimate YouTube Guide To Building A Channel.",
+         "picture":"http://ecx.images-amazon.com/images/I/518gPckdTFL.jpg",
+         "link":"http://amzn.to/2u3e1Sc"
+      },
+      {
+         "title":"Canon Digital SLR Camera",
+         "picture":"http://ecx.images-amazon.com/images/I/51%2BlC43HUAL.jpg",
+         "link":"http://amzn.to/2tAHMrI"
+      },
+      {
+         "title":"Syma X5SW Explorers2 Drone",
+         "picture":"http://ecx.images-amazon.com/images/I/4185ucaPQqL.jpg",
+         "link":"http://amzn.to/2vcukw8"
+      },
+      {
+         "title":"GoPro HERO 5 Sports & Action Camera",
+         "picture":"https://rukminim1.flixcart.com/image/500/500/camera/a/k/z/gopro-hero5-hero-5-sports-action-original-imaenurzc6rszqzk.jpeg?q=100",
+         "link":"https://dl.flipkart.com/dl//gopro-hero-5-sports-action-camera/p/itmemx86z2vkrsxn?pid=CAMEMX86BXUHTAKZ&affid=mymobgsgm"
+      },
+      {
+         "title":"Apple MacBook Air",
+         "picture":"http://ecx.images-amazon.com/images/I/41%2BRtZqQhkL.jpg",
+         "link":"http://amzn.to/2vceIJ0"
+      }
+   ]
+}
